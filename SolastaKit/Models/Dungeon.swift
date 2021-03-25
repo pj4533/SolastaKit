@@ -7,11 +7,11 @@
 
 import Foundation
 
-struct Dungeon {
+public struct Dungeon: Codable {
     var dungeonMakerVersion: Double?
-    var title: String?
-    var description: String?
-    var author: String?
-    var startLevelMin: Int?
-    var startLevelMax: Int?
+    public var title: String?
+    public var description: String?
+    public var author: String?
+    public var startLevelMin: Int?
+    public var startLevelMax: Int?
 }
