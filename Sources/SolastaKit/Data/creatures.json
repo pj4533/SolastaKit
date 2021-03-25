@@ -1,0 +1,387 @@
+[
+    {
+        "label": "SRD_Acolyte",
+        "name": "Acolyte",
+        "size": "medium",
+        "type": "humanoid",
+        "challengeRating": "1/4"
+    },
+    {
+        "label": "SRD_Mage",
+        "name": "Archmage",
+        "size": "medium",
+        "type": "humanoid",
+        "challengeRating": "6"
+    },
+    {
+        "label": "Generic_BadlandHunter",
+        "name": "Badlands Hunter",
+        "size": "medium",
+        "type": "humanoid",
+        "challengeRating": "4"
+    },
+    {
+        "label": "BadlandsSpider",
+        "name": "Bandlands Spider",
+        "size": "medium",
+        "type": "beast",
+        "challengeRating": "1/2"
+    },
+    {
+        "label": "Wraith",
+        "name": "Badlands Wraith",
+        "size": "medium",
+        "type": "undead",
+        "challengeRating": "5"
+    },
+    {
+        "label": "SRD_Bandit_Ranged",
+        "name": "Bandit",
+        "size": "medium",
+        "type": "humanoid",
+        "challengeRating": "1/8"
+    },
+    {
+        "label": "SRD_Bandit",
+        "name": "Bandit",
+        "size": "medium",
+        "type": "humanoid",
+        "challengeRating": "1/8"
+    },
+    {
+        "label": "SRD_BanditCaptain",
+        "name": "Bandit Captain",
+        "size": "medium",
+        "type": "humanoid",
+        "challengeRating": "2"
+    },
+    {
+        "label": "Generic_Darkweaver",
+        "name": "Darkweaver",
+        "size": "medium",
+        "type": "humanoid",
+        "challengeRating": "5"
+    },
+    {
+        "label": "SRD_Cult_Fanatic",
+        "name": "Cult Fanatic",
+        "size": "medium",
+        "type": "humanoid",
+        "challengeRating": "2"
+    },
+    {
+        "label": "Brood_of_dread",
+        "name": "Brood of Dread",
+        "size": "medium",
+        "type": "undead",
+        "challengeRating": "3"
+    },
+    {
+        "label": "Brood_of_blood",
+        "name": "Brood of Blood",
+        "size": "medium",
+        "type": "undead",
+        "challengeRating": "5"
+    },
+    {
+        "label": "Eagle_Matriarch",
+        "name": "Eagle Matriarch",
+        "size": "medium",
+        "type": "beast",
+        "challengeRating": "1/8"
+    },
+    {
+        "label": "SRD_Priest",
+        "name": "Evil Priest",
+        "size": "medium",
+        "type": "humanoid",
+        "challengeRating": "2"
+    },
+    {
+        "label": "Ghast",
+        "name": "Ghast",
+        "size": "medium",
+        "type": "undead",
+        "challengeRating": "1"
+    },
+    {
+        "label": "Ghoul",
+        "name": "Ghoul",
+        "size": "medium",
+        "type": "undead",
+        "challengeRating": "1"
+    },
+    {
+        "label": "Goblin_Skirmisher",
+        "name": "Goblin SKirmisher",
+        "size": "medium",
+        "type": "humanoid",
+        "challengeRating": "1/4"
+    },
+    {
+        "label": "Goblin_Shaman",
+        "name": "Goblin Shaman",
+        "size": "medium",
+        "type": "humanoid",
+        "challengeRating": "1"
+    },
+    {
+        "label": "Goblin_Cutthroat",
+        "name": "Goblin Cutthroat",
+        "size": "medium",
+        "type": "humanoid",
+        "challengeRating": "2"
+    },
+    {
+        "label": "Goblin",
+        "name": "Goblin",
+        "size": "medium",
+        "type": "humanoid",
+        "challengeRating": "1/4"
+    },
+    {
+        "label": "Generic_Guard",
+        "name": "Guard",
+        "size": "medium",
+        "type": "humanoid",
+        "challengeRating": "1/2"
+    },
+    {
+        "label": "Generic_HighPriest",
+        "name": "High Priest",
+        "size": "medium",
+        "type": "humanoid",
+        "challengeRating": "6"
+    },
+    {
+        "label": "Generic_Highwayman",
+        "name": "Highwayman",
+        "size": "medium",
+        "type": "humanoid",
+        "challengeRating": "1/2"
+    },
+    {
+        "label": "Generic_Necromancer",
+        "name": "Necromancer",
+        "size": "medium",
+        "type": "humanoid",
+        "challengeRating": "6"
+    },
+    {
+        "label": "Orc_Grunt",
+        "name": "Orc",
+        "size": "medium",
+        "type": "humanoid",
+        "challengeRating": "1/2"
+    },
+    {
+        "label": "Orc_Archer",
+        "name": "Orc Archer",
+        "size": "medium",
+        "type": "humanoid",
+        "challengeRating": "1/2"
+    },
+    {
+        "label": "SRD_Scout",
+        "name": "Scout",
+        "size": "medium",
+        "type": "humanoid",
+        "challengeRating": "1/2"
+    },
+    {
+        "label": "Generic_ShockArcanist",
+        "name": "Shock Arcanist",
+        "size": "medium",
+        "type": "humanoid",
+        "challengeRating": "7"
+    },
+    {
+        "label": "Skeleton_Sorcerer",
+        "name": "Skeletal Sorcerer",
+        "size": "medium",
+        "type": "undead",
+        "challengeRating": "3"
+    },
+    {
+        "label": "Skeleton_Marksman",
+        "name": "Skeletal Marksman",
+        "size": "medium",
+        "type": "undead",
+        "challengeRating": "3"
+    },
+    {
+        "label": "Skeleton_Knight",
+        "name": "Skeletal Knight",
+        "size": "medium",
+        "type": "undead",
+        "challengeRating": "3"
+    },
+    {
+        "label": "Skeleton_Enforcer",
+        "name": "Skeletal Enforcer",
+        "size": "medium",
+        "type": "undead",
+        "challengeRating": "2"
+    },
+    {
+        "label": "Skeleton",
+        "name": "Skeleton",
+        "size": "medium",
+        "type": "undead",
+        "challengeRating": "1/4"
+    },
+    {
+        "label": "Skeleton_Archer",
+        "name": "Skeleton Archer",
+        "size": "medium",
+        "type": "undead",
+        "challengeRating": "1/4"
+    },
+    {
+        "label": "Sorr-Akkath_Acolyte_of_Sorr-Tarr",
+        "name": "Sorr-Akkath Acolyte of Sorr-Tarr",
+        "size": "medium",
+        "type": "humanoid",
+        "challengeRating": "2"
+    },
+    {
+        "label": "Sorr-Akkath_Assassin",
+        "name": "Sorr-Akkath Assassin",
+        "size": "medium",
+        "type": "humanoid",
+        "challengeRating": "3"
+    },
+    {
+        "label": "Sorr-Akkath_Saboteur",
+        "name": "Sorr-Akkath Saboteur",
+        "size": "medium",
+        "type": "humanoid",
+        "challengeRating": "1"
+    },
+    {
+        "label": "Sorr-Akkath_Skirmisher",
+        "name": "Sorr-Akkath Skirmisher",
+        "size": "medium",
+        "type": "humanoid",
+        "challengeRating": "1/2"
+    },
+    {
+        "label": "Sorr-Akkath_Warrior",
+        "name": "Sorr-Akkath Warrior",
+        "size": "medium",
+        "type": "humanoid",
+        "challengeRating": "1"
+    },
+    {
+        "label": "Ghost",
+        "name": "Spectral Avenger",
+        "size": "medium",
+        "type": "undead",
+        "challengeRating": "4"
+    },
+    {
+        "label": "SRD_Spy",
+        "name": "Spy",
+        "size": "medium",
+        "type": "humanoid",
+        "challengeRating": "1"
+    },
+    {
+        "label": "SRD_Thug",
+        "name": "Thug",
+        "size": "medium",
+        "type": "humanoid",
+        "challengeRating": "1/2"
+    },
+    {
+        "label": "Tiger_Drake",
+        "name": "Tiger Drake",
+        "size": "medium",
+        "type": "beast",
+        "challengeRating": "2"
+    },
+    {
+        "label": "SRD_Veteran",
+        "name": "Veteran",
+        "size": "medium",
+        "type": "humanoid",
+        "challengeRating": "3"
+    },
+    {
+        "label": "Generic_Warlord",
+        "name": "Warlord",
+        "size": "medium",
+        "type": "humanoid",
+        "challengeRating": "7"
+    },
+    {
+        "label": "Wight",
+        "name": "Wight",
+        "size": "medium",
+        "type": "undead",
+        "challengeRating": "3"
+    },
+    {
+        "label": "Wolf",
+        "name": "Wolf",
+        "size": "medium",
+        "type": "beast",
+        "challengeRating": "1/4"
+    },
+    {
+        "label": "Zombie",
+        "name": "Zombie",
+        "size": "medium",
+        "type": "undead",
+        "challengeRating": "1/4"
+    },
+    {
+        "label": "Giant_Eagle",
+        "name": "Badlands Eagle",
+        "size": "large",
+        "type": "beast",
+        "challengeRating": "1"
+    },
+    {
+        "label": "DeepSpider",
+        "name": "Deep Spider",
+        "size": "large",
+        "type": "beast",
+        "challengeRating": "2"
+    },
+    {
+        "label": "Direwolf",
+        "name": "Dire Wolf",
+        "size": "large",
+        "type": "beast",
+        "challengeRating": "1"
+    },
+    {
+        "label": "Minotaur",
+        "name": "Minotaur",
+        "size": "large",
+        "type": "monstrosity",
+        "challengeRating": "3"
+    },
+    {
+        "label": "Ogre",
+        "name": "Ogre",
+        "size": "large",
+        "type": "humanoid",
+        "challengeRating": "2"
+    },
+    {
+        "label": "Ogre_Zombie",
+        "name": "Orge Zombie",
+        "size": "large",
+        "type": "undead",
+        "challengeRating": "2"
+    },
+    {
+        "label": "Winter_Wolf",
+        "name": "Winter Wolf",
+        "size": "large",
+        "type": "monstrosity",
+        "challengeRating": "3"
+    }
+]

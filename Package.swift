@@ -1,4 +1,4 @@
-// swift-tools-version:5.0
+// swift-tools-version:5.3
 import PackageDescription
 
 let package = Package(
@@ -9,12 +9,16 @@ let package = Package(
     products: [
         .library(
             name: "SolastaKit",
-            targets: ["SolastaKit"]),
+            targets: ["SolastaKit"]
+        ),
     ],
     targets: [
         .target(
             name: "SolastaKit",
-            path: "SolastaKit")
+            resources: [
+                .process("Data")
+            ]
+        )
     ],
-    swiftLanguageVersions: [.v5, .v4_2]
+    swiftLanguageVersions: [.v5]
 )
