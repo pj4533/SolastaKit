@@ -16,7 +16,7 @@ let package = Package(
         .target(
             name: "SolastaKit",
             resources: [
-                .process("Data")
+                .process("Resources")
             ]
         )
     ],
