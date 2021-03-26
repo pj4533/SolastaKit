@@ -7,9 +7,9 @@
 
 import Foundation
 
-struct Roll {
+public struct Roll {
 
-    static func roll(_ rollString:String) -> Int? {
+    public static func roll(_ rollString:String) -> Int? {
         let diceArray = rollString.split(separator: "d")
         if diceArray.count == 2 {
             let rolls = Int(diceArray[0]) ?? 0
@@ -32,31 +32,31 @@ struct Roll {
         return nil
     }
     
-    static func d(_ dice:Int) -> Int {
+    public static func d(_ dice:Int) -> Int {
         return Int.random(in: 1...dice)
     }
-    static func d2() -> Int {
+    public static func d2() -> Int {
         return self.d(2)
     }
-    static func d4() -> Int {
+    public static func d4() -> Int {
         return self.d(4)
     }
-    static func d6() -> Int {
+    public static func d6() -> Int {
         return self.d(6)
     }
-    static func d8() -> Int {
+    public static func d8() -> Int {
         return self.d(8)
     }
-    static func d10() -> Int {
+    public static func d10() -> Int {
         return self.d(10)
     }
-    static func d12() -> Int {
+    public static func d12() -> Int {
         return self.d(12)
     }
-    static func d20() -> Int {
+    public static func d20() -> Int {
         return self.d(20)
     }
-    static func d100() -> Int {
+    public static func d100() -> Int {
         return self.d(100)
     }
 }
